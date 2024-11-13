@@ -2,6 +2,7 @@
 <h3 align="center">Second Year Computer Science UnderGrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmalawde-28&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmalawde-28" /> </p>
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width ="400" align ="right">
 
 - 🌱 I’m currently learning **NextJS and Machine learning**
 
@@ -10,6 +11,8 @@
 - 📫 How to reach me **sahilmalawde49@gmail.com**
 
 - ⚡ Fun fact **I am a Chess Player too.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
